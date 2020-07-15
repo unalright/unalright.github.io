@@ -8,4 +8,4 @@ Send secret messages to your friend with my app: [Link to app](https://handy-lov
 See if you can steal all the coin in time. [Click here to play.](https://fuschia-spark-dolomite.glitch.me/)
 Use the arrow keys to move and the spacebar to interact with objects
 
-Play my pokemon clone [here] (https://salt-chiseled-frame.glitch.me/)!
+Play my pokemon clone [here]https://salt-chiseled-frame.glitch.me/)!
